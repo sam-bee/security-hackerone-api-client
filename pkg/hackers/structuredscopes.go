@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/liamg/hackerone/pkg/api"
+	"github.com/sam-bee/security-hackerone-api-client/pkg/api"
 )
 
 type getStructuredScopesResponse struct {

@@ -1,4 +1,4 @@
-module github.com/liamg/hackerone
+module github.com/sam-bee/security-hackerone-api-client
 
 go 1.18
 

@@ -1,7 +1,7 @@
 package hackers
 
 import (
-	"github.com/liamg/hackerone/pkg/client"
+	"github.com/sam-bee/security-hackerone-api-client/pkg/client"
 )
 
 type API struct {

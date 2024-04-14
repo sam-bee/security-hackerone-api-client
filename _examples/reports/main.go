@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/liamg/hackerone"
+	"github.com/sam-bee/security-hackerone-api-client"
 )
 
 func main() {

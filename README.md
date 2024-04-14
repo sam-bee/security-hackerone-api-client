@@ -2,9 +2,9 @@
 
 HackerOne API Client in Go.
 
-Current supports the entire [Hackers API](https://api.hackerone.com/getting-started-hacker-api/#getting-started-hacker-api). Support for the _Customers_ API may be added in future if there is any demand.
-
-Please see the [documentation](https://pkg.go.dev/github.com/liamg/hackerone) for further information.
+This project is a fork of [liamg/hackerone](https://github.com/liamg/hackerone/). It adds the functionality to search through the Structured
+Scope objects in the API. This addition allows you to automate the process of bug bounty target scanning, and large-scale automated security
+testing. See the [sam-bee/security-hackerone-target-retrieval](https://github.com/sam-bee/security-hackerone-target-retrieval) project for real world usage.
 
 ## Usage Example
 
